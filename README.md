@@ -1,1 +1,11 @@
 # Cell-Automata
+
+Simulation of cellular automatons in Python.
+
+cell_automata/\
+├── READ ME.txt\
+├── Run.bat	# Run this to start\
+├── main.py\
+└── resources/\
+    ├── icon.ico\
+    └── screenshot.png
