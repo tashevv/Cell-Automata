@@ -8,4 +8,4 @@ cell_automata/\
 ├── main.py\
 └── resources/
 
-![demo2](resources/cell_automata_screenshot_1.png)
+![demo2](resources/cell_automata_screenshot_3.png)
