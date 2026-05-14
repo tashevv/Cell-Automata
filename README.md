@@ -9,3 +9,5 @@ cell_automata/\
 └── resources/\
     ├── icon.ico\
     └── screenshot.png
+
+![demo2](resources/screenshot.png)
