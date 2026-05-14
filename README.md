@@ -10,4 +10,4 @@ cell_automata/\
     ├── icon.ico\
     └── screenshot.png
 
-![demo2](resources/screenshot.png)
+![demo2](resources/cell_automata_screenshot_1.png)
