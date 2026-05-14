@@ -8,6 +8,7 @@ cell_automata/\
 ├── main.py\
 └── resources/\
     ├── icon.ico\
-    └── screenshot.png
+    ├── cell_automata_screenshot_1.png\
+    └── cell_automata_screenshot_2.png
 
 ![demo2](resources/cell_automata_screenshot_1.png)
