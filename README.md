@@ -9,4 +9,4 @@ cell_automata/\
 ├── resources/\
 └── presets/
 
-![demo2](resources/cell_automata_screenshot_3.png)
+![demo](resources/cell_automata_screenshot_4.png)
