@@ -6,9 +6,6 @@ cell_automata/\
 ├── READ ME.txt\
 ├── Run.bat	# Run this to start\
 ├── main.py\
-└── resources/\
-    ├── icon.ico\
-    ├── cell_automata_screenshot_1.png\
-    └── cell_automata_screenshot_2.png
+└── resources/
 
 ![demo2](resources/cell_automata_screenshot_1.png)
